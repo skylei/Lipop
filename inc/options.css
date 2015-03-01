@@ -1,0 +1,17 @@
+.options { width:860px; margin-top:20px; }
+.options-title { background: #FFF; padding: 10px; border: 1px solid #AAA; border-radius: 5px; }
+.options-title h3 { color: #555; line-height: 30px; margin: 0; display: block; }
+.options-title h3 span { color: #7AD03A; }
+.tabPanel ul { height: 30px; border-bottom: 1px solid #AAA; }
+.tabPanel ul li { float: left; border: 1px solid #AAA; font-size: 14px; height: 29px; line-height: 30px; width: 150px; text-align: center; margin: 0 2px 0 0; cursor: pointer; text-shadow: 0 1px 0 #FFF; border-radius: 5px 5px 0 0; box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.5); background: #ddd; background: -moz-linear-gradient(top, #eee, #ddd); background: -webkit-gradient(linear, left top, left bottom, from(#eee), to(#ddd)); }
+.tabPanel .hit { border-bottom: 1px solid #FFF; cursor: pointer; color: #FF4627; text-shadow: 0 1px 0 #FFF; background: #FFF; background: -webkit-gradient(linear, left top, left bottom, from(#e1e1e1), to(#FFF)); background: -moz-linear-gradient(top, #e1e1e1, #FFF); }
+.panes { background-color: #FFF; margin-top: -14px; padding: 10px; border: 1px solid #AAA; }
+.pane { border-top: 0; min-height: 380px; }
+.heading { margin: 10px 0px; padding: 7px 0px; border-bottom: 1px solid #E7E7E7; font-size: 15px; }
+.section { display: inline-block; }
+.controls { float: left; width: 580px; margin: 0px 15px 0px 0px; }
+.explain { float: left; width: 225px; padding: 0px 10px 0px 0px; font-size: 14px; color: #999; }
+.option { padding: 5px 0; overflow: hidden; }
+.upload { width: 518px; margin-bottom: 8px; }
+.submit { float: right; }
+.jane_user, .jane_img { max-width: 494px; max-height: 280px; overflow: hidden; }
