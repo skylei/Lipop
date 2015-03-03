@@ -6,7 +6,7 @@
 <title><?php wp_title( '|', true, 'right' ); bloginfo('name'); ?></title>
 	<?php if (is_home())
 	{
-	$description = $options['zkeywords'];
+	$description = $options['zdescription'];
 	$keywords = $options['zkeywords'];
 	}
 	elseif (is_category())
